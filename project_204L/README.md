@@ -1,4 +1,4 @@
-# xZone--test--PYNQ
+# xZone--test--PYNQ/project_204L
 
 Testing and debugging on PYNQ-Z1/Z2
 
